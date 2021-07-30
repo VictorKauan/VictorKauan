@@ -12,7 +12,7 @@
   <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" height="128" width="128" alt="Victor Kauan GIF" src="https://cdn.discordapp.com/attachments/702680136302198825/870521318414643210/victorkauan.gif">
+  <img align="right" height="92" width="92" alt="Victor Kauan GIF" src="https://cdn.discordapp.com/attachments/702680136302198825/870521318414643210/victorkauan.gif">
 </div>
 
 ##
