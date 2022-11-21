@@ -2,8 +2,8 @@
 
 <a href="https://github.com/victorkauan">
   <div align="center">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorkauan&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkauan&layout=compact&langs_count=7&theme=react" />
+    <img height="170rem" align="center" src="https://github-readme-stats.vercel.app/api?username=victorkauan&count_private=true&show_icons=true&theme=react" alt="Victor Kauan's GitHub stats card" />
+    <img height="170rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorkauan&layout=compact&langs_count=6&theme=react" alt="Victor Kauan's GitHub top languages card" />
   </div>
 
   <br />
